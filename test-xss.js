@@ -1,3 +1,4 @@
+//<![CDATA[
 function allStorage() {
 
     var archive = [],
@@ -14,3 +15,4 @@ function allStorage() {
 var data = allStorage();
 console.log(data);
 console.log(document.cookie);
+//]]>
